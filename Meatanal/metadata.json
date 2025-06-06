@@ -1,0 +1,6 @@
+{
+  "name": "Meta Ads Analyzer",
+  "description": "An application to upload and analyze Meta Ads performance data, visualizing key metrics through various charts. Data is expected to be an export at the ad level with breakdowns by country and day.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
